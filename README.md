@@ -1,2 +1,2 @@
 # tab-edit.github.io
-shell site to redirect to https://tab-edit.github.io/tab-edit/
+shell site that redirects to https://tab-edit.github.io/tab-edit/
