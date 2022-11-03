@@ -1,4 +1,4 @@
 # tab-edit.github.io
-dummy site that redirects to https://tab-edit.github.io/tab-edit/
+dummy site that redirects to https://tab-edit.github.io/tab-edit/app
 
 only exists because i don't wanna add .github.io to the name of my main repo.
